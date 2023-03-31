@@ -1,4 +1,4 @@
-## <p align="center"> 〰️ Welcome to my README 〰️
+## Welcome to my README
 
 👋 Hello! I'm Jennifer (she/her) and I live on Tongva and Acjachemen land in Southern California. 
 
