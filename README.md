@@ -1,3 +1,3 @@
-## 🕯️ Hey, there!
+## 🕯️
 
-I'm a software engineer working in the cloud who is passionate about open source and supporting marginalized folks in tech. I'm into systems and context.
+Software engineer designing and building cloud infrastructure, enabling access to earth data, passionate about accessibility and systems design.
